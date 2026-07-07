@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: An Vehicle Insurance MLOps project for productionizing models
+Author: Satveer Singh
+Author-email: Satveer Singh <satveerbhogal@gmail.com>
+Dynamic: author

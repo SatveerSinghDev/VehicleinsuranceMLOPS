@@ -1,0 +1,2 @@
+[ 2026-07-07 19:45:49,656 ] root - INFO - unsupported operand type(s) for +: 'int' and 'str'
+[ 2026-07-07 19:45:49,657 ] root - ERROR - Error occurred in Python script: [/Users/satveersingh/Desktop/MLOPS/VehicleInsuranceMLOPS/demo.py] at line number [18] Error message: unsupported operand type(s) for +: 'int' and 'str'
